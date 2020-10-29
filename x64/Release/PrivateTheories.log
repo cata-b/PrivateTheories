@@ -1,0 +1,8 @@
+﻿  moc GUI.h
+  moc UserListWindow.h
+  GUI.cpp
+  UserListWindow.cpp
+  main.cpp
+  moc_GUI.cpp
+  moc_UserListWindow.cpp
+  PrivateTheories.vcxproj -> D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\x64\Release\PrivateTheories.exe

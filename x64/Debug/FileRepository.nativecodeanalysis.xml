@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>FileRepository.cpp</FILENAME>
+      <LINE>66</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
+    <FUNCTION>FileRepository::AddEvidence</FUNCTION>
+    <DECORATED>?AddEvidence@FileRepository@@UEAAXAEBVEvidence@@@Z</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>FileRepository.cpp</FILENAME>
+      <LINE>82</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
+    <FUNCTION>FileRepository::AddEvidence</FUNCTION>
+    <DECORATED>?AddEvidence@FileRepository@@UEAAXAEBVEvidence@@@Z</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>FileRepository.cpp</FILENAME>
+      <LINE>54</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>28183</DEFECTCODE>
+    <DESCRIPTION>'tmpnam(0)' could be '0', and is a copy of the value found in 'tmpnam()`54':  this does not adhere to the specification for the function 'std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;::{ctor}'. </DESCRIPTION>
+    <FUNCTION>FileRepository::AddEvidence</FUNCTION>
+    <DECORATED>?AddEvidence@FileRepository@@UEAAXAEBVEvidence@@@Z</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>filerepository.cpp</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>filerepository.cpp</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>filerepository.cpp</FILENAME>
+        <LINE>45</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>filerepository.cpp</FILENAME>
+        <LINE>46</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>filerepository.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>FileRepository.cpp</FILENAME>
+      <LINE>105</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
+    <FUNCTION>FileRepository::RemoveEvidence</FUNCTION>
+    <DECORATED>?RemoveEvidence@FileRepository@@UEAA?AVEvidence@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>FileRepository.cpp</FILENAME>
+      <LINE>90</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>28183</DEFECTCODE>
+    <DESCRIPTION>'tmpnam(0)' could be '0', and is a copy of the value found in 'tmpnam()`90':  this does not adhere to the specification for the function 'std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;::{ctor}'. </DESCRIPTION>
+    <FUNCTION>FileRepository::RemoveEvidence</FUNCTION>
+    <DECORATED>?RemoveEvidence@FileRepository@@UEAA?AVEvidence@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>86</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>filerepository.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>filerepository.cpp</FILENAME>
+        <LINE>90</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>FileRepository.cpp</FILENAME>
+      <LINE>132</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
+    <FUNCTION>FileRepository::UpdateEvidence</FUNCTION>
+    <DECORATED>?UpdateEvidence@FileRepository@@UEAA?AVEvidence@@AEBV2@@Z</DECORATED>
+    <FUNCLINE>110</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>FileRepository.cpp</FILENAME>
+      <LINE>115</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>28183</DEFECTCODE>
+    <DESCRIPTION>'tmpnam(0)' could be '0', and is a copy of the value found in 'tmpnam()`115':  this does not adhere to the specification for the function 'std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;::{ctor}'. </DESCRIPTION>
+    <FUNCTION>FileRepository::UpdateEvidence</FUNCTION>
+    <DECORATED>?UpdateEvidence@FileRepository@@UEAA?AVEvidence@@AEBV2@@Z</DECORATED>
+    <FUNCLINE>110</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>filerepository.cpp</FILENAME>
+        <LINE>112</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>filerepository.cpp</FILENAME>
+        <LINE>113</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>filerepository.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

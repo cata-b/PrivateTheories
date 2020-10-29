@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>HTMLRepository.cpp</FILENAME>
+      <LINE>152</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
+    <FUNCTION>HTMLRepository::AddEvidence</FUNCTION>
+    <DECORATED>?AddEvidence@HTMLRepository@@UEAAXAEBVEvidence@@@Z</DECORATED>
+    <FUNCLINE>123</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>HTMLRepository.cpp</FILENAME>
+      <LINE>169</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
+    <FUNCTION>HTMLRepository::AddEvidence</FUNCTION>
+    <DECORATED>?AddEvidence@HTMLRepository@@UEAAXAEBVEvidence@@@Z</DECORATED>
+    <FUNCLINE>123</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>HTMLRepository.cpp</FILENAME>
+      <LINE>137</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>28183</DEFECTCODE>
+    <DESCRIPTION>'tmpnam(0)' could be '0', and is a copy of the value found in 'tmpnam()`137':  this does not adhere to the specification for the function 'std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;::{ctor}'. </DESCRIPTION>
+    <FUNCTION>HTMLRepository::AddEvidence</FUNCTION>
+    <DECORATED>?AddEvidence@HTMLRepository@@UEAAXAEBVEvidence@@@Z</DECORATED>
+    <FUNCLINE>123</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>htmlrepository.cpp</FILENAME>
+        <LINE>125</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>htmlrepository.cpp</FILENAME>
+        <LINE>126</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>htmlrepository.cpp</FILENAME>
+        <LINE>127</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>htmlrepository.cpp</FILENAME>
+        <LINE>128</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>htmlrepository.cpp</FILENAME>
+        <LINE>137</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>HTMLRepository.cpp</FILENAME>
+      <LINE>195</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
+    <FUNCTION>HTMLRepository::RemoveEvidence</FUNCTION>
+    <DECORATED>?RemoveEvidence@HTMLRepository@@UEAA?AVEvidence@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>HTMLRepository.cpp</FILENAME>
+      <LINE>177</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>28183</DEFECTCODE>
+    <DESCRIPTION>'tmpnam(0)' could be '0', and is a copy of the value found in 'tmpnam()`177':  this does not adhere to the specification for the function 'std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;::{ctor}'. </DESCRIPTION>
+    <FUNCTION>HTMLRepository::RemoveEvidence</FUNCTION>
+    <DECORATED>?RemoveEvidence@HTMLRepository@@UEAA?AVEvidence@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>htmlrepository.cpp</FILENAME>
+        <LINE>175</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>htmlrepository.cpp</FILENAME>
+        <LINE>177</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>HTMLRepository.cpp</FILENAME>
+      <LINE>225</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'rename'.</DESCRIPTION>
+    <FUNCTION>HTMLRepository::UpdateEvidence</FUNCTION>
+    <DECORATED>?UpdateEvidence@HTMLRepository@@UEAA?AVEvidence@@AEBV2@@Z</DECORATED>
+    <FUNCLINE>200</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\</FILEPATH>
+      <FILENAME>HTMLRepository.cpp</FILENAME>
+      <LINE>205</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>28183</DEFECTCODE>
+    <DESCRIPTION>'tmpnam(0)' could be '0', and is a copy of the value found in 'tmpnam()`205':  this does not adhere to the specification for the function 'std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;::{ctor}'. </DESCRIPTION>
+    <FUNCTION>HTMLRepository::UpdateEvidence</FUNCTION>
+    <DECORATED>?UpdateEvidence@HTMLRepository@@UEAA?AVEvidence@@AEBV2@@Z</DECORATED>
+    <FUNCLINE>200</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>htmlrepository.cpp</FILENAME>
+        <LINE>202</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>htmlrepository.cpp</FILENAME>
+        <LINE>203</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\mega\facultate\sem. ii\oop\privatetheories\</FILEPATH>
+        <FILENAME>htmlrepository.cpp</FILENAME>
+        <LINE>205</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

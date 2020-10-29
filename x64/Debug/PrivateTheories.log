@@ -1,0 +1,31 @@
+﻿  moc GUI.h
+  moc EvidenceImageViewerDelegate.h
+  moc KeyboardShortcutFilter.h
+  moc UserListWindow.h
+  AddAction.cpp
+  DatabaseRepository.cpp
+  Evidence.cpp
+  EvidenceImageViewerDelegate.cpp
+  FileRepository.cpp
+  GUI.cpp
+  HTMLIO.cpp
+  HTMLRepository.cpp
+  InMemoryRepository.cpp
+  KeyboardShortcutFilter.cpp
+  main.cpp
+  RemoveAction.cpp
+  ReportingHook.cpp
+  SelectRepositoryDialog.cpp
+  SeniorClearanceController.cpp
+  SimpleEvidenceValidator.cpp
+  StandardClearanceController.cpp
+  StandardClearanceTableModel.cpp
+  UI.cpp
+  UpdateAction.cpp
+  UserListWindow.cpp
+  qrc_GUI.cpp
+  moc_GUI.cpp
+  moc_EvidenceImageViewerDelegate.cpp
+  moc_KeyboardShortcutFilter.cpp
+  moc_UserListWindow.cpp
+  PrivateTheories.vcxproj -> D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\x64\Debug\PrivateTheories.exe

@@ -1,0 +1,4 @@
+C:\Users\catab\Desktop\PrivateTheories\x64\Debug\PrivateTheories.exe
+C:\Users\catab\Desktop\PrivateTheories\x64\Debug\PrivateTheories.pdb
+D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\x64\Debug\PrivateTheories.exe
+D:\MEGA\Facultate\Sem. II\OOP\PrivateTheories\x64\Debug\PrivateTheories.pdb
